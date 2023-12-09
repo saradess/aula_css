@@ -70,3 +70,11 @@ section h1 {font-size: 32px;}
 #economy .article article a{background-color: rgb(246, 147, 18);}
 
 section h1 {background-color: rgba(5, 53, 5, 0.505);}
+
+#tecnologia {background-color: rgba(211, 168, 252, 0.7);}
+
+#tecnologia .article article a{background-color: rgb(59, 8, 104);}
+
+#Entretenimento {background-color: rgba(172, 215, 248, 0.7);}
+
+#Entretenimento .article article a{background-color: rgb(12, 28, 243);}
